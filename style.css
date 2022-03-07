@@ -1,0 +1,36 @@
+.card{
+  text-align: center;
+}
+.calc{
+  width: 400px;
+  height: 200px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: rgb(58, 59, 78);
+  border: 1px solid black;
+}
+.calc .operatons-of-buttons button{
+  width: 40px;
+  height: 40px;
+  margin: 20px;  
+}
+.butn{
+  background-color: rgb(57, 196, 201);
+  border-radius: 35%;
+}
+.calc .inputs-of-numbers .input-number{
+  display: inline-block;
+  padding: 10px;
+}
+.calc .inputs-of-numbers .input-number label{
+  display: block;
+  color: rgb(157, 255, 65);
+}
+#res{
+  color: rgb(253, 228, 0);
+}
+
+
+
+
